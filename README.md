@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <title>Display the Results Of the Learners</title>
@@ -61,6 +62,7 @@ Click here to Get the Result of the Learner
 </h1>
 </body>
 </html>
+```
 
 ## OUTPUT
 ![Screenshot (8)](https://github.com/Priyapugaz/Ex06_Web-Design/assets/127816320/5051140a-6db1-4ac6-ba1a-b340d37268b4)
